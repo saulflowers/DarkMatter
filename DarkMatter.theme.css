@@ -11,11 +11,10 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --background-image: url('https://cdn.discordapp.com/attachments/745937405026238494/1130917773476888576/reiu.png');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
-    --background-solid-darker: #0c0e12;
-    --accent: 37, 172, 232;
-    --accent-alt: 29, 101, 134;
+    --accent: 202, 222, 242;
+    --accent-alt: 202, 208, 242;
 }
